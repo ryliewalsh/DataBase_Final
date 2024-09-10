@@ -5,7 +5,7 @@
 * [make](https://www.gnu.org/software/make/)
 * [wget](https://www.gnu.org/software/wget/)
 
-Note: onyx should already have everything you need. 
+
 
 # Setup (All)
 ## Environment Variables
@@ -39,9 +39,6 @@ by running the following command
 ssh -L <database port goes here>:127.0.0.1:<database port goes here> <onyx username>@onyx.boisestate.edu
 ```
 NOTE: `<` and `>` should not be included.
-
-More details about this can be found here:
-https://www.ssh.com/ssh/tunneling/example
 
 
 # Running the Application
